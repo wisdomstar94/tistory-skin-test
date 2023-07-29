@@ -1,0 +1,16 @@
+{
+  "name": "tistory-skin-test",
+  "version": "0.0.1",
+  "description": "tistory 스킨 개발을 위한 테스트용 레포지토리 입니다.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tistory"
+  ],
+  "author": "wisdomstar94@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.18.17"
+  }
+}
